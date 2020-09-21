@@ -1,0 +1,134 @@
+{
+    "0": {
+        "outcome": true,
+        "test_case_name": "test_add1",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "3",
+            "-3",
+            "1",
+            "-1"
+        ]
+    },
+    "1": {
+        "outcome": true,
+        "test_case_name": "test_add2",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "30",
+            "-30",
+            "10",
+            "-10"
+        ]
+    },
+    "2": {
+        "outcome": true,
+        "test_case_name": "test_add3",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "50",
+            "-50",
+            "10",
+            "-10"
+        ]
+    },
+    "3": {
+        "outcome": false,
+        "test_case_name": "test_sub1",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "3",
+            "-3",
+            "1",
+            "-1"
+        ]
+    },
+    "4": {
+        "outcome": true,
+        "test_case_name": "test_sub2",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "-10",
+            "10",
+            "-30",
+            "30"
+        ]
+    },
+    "5": {
+        "outcome": true,
+        "test_case_name": "test_sub3",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "-10",
+            "10",
+            "-50",
+            "50"
+        ]
+    },
+    "6": {
+        "outcome": false,
+        "test_case_name": "test_div1",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "0.5",
+            "0.5",
+            "-0.5",
+            "-0.5"
+        ]
+    },
+    "7": {
+        "outcome": false,
+        "test_case_name": "test_div2",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "0.5",
+            "0.5",
+            "-0.5",
+            "-0.5"
+        ]
+    },
+    "8": {
+        "outcome": true,
+        "test_case_name": "test_div3",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "2.00",
+            "2.00",
+            "-2.00",
+            "-2.00"
+        ]
+    },
+    "9": {
+        "outcome": true,
+        "test_case_name": "test_mul2",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "200",
+            "200",
+            "-200",
+            "-200"
+        ]
+    },
+    "10": {
+        "outcome": true,
+        "test_case_name": "test_mul3",
+        "test_performed": "Calculator",
+        "frames_per_second": 0,
+        "result": [
+            "600",
+            "600",
+            "-600",
+            "-600"
+        ]
+    }
+}
