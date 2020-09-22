@@ -41,7 +41,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_add1",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -60,7 +60,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_add2",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -78,7 +78,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_add3",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -96,7 +96,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_sub1",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -114,7 +114,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_sub2",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -132,7 +132,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_sub3",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -151,7 +151,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_div1",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -169,7 +169,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_div2",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -187,7 +187,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_div3",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -206,7 +206,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_mul1",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -224,7 +224,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_mul2",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
@@ -242,7 +242,7 @@ class TestCalc:
         out = { "outcome":(act_list == exp_list),
                 "test_case_name":"test_mul3",
                 "test_performed": "Calculator",
-                "frames_per_second":frames_per_second,
+                "frames_per_second":"0.0",
                 "result":exp_list 
             }
         pytest.json_metadata[pytest.index] = out
